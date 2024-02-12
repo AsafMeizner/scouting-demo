@@ -205,9 +205,6 @@ const Scouting = () => {
 
   return (
     <div>
-    <React.Fragment>
-      <link rel="shortcut icon" href="/static/malogo.ico" />
-    </React.Fragment>
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '100vh' }}>
         <div style={{ color: 'white', textAlign: 'center' }}>
           <h1 style={{ textAlign: 'center', marginBottom: '20px', fontSize: '48px' }}>Scouting Demo MA 5951</h1>
